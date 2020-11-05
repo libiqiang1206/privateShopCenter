@@ -1,2 +1,1 @@
-# privateShopCenter
-个人定制小程序project
+## 我的小程序
